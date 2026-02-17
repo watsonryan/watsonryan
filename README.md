@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @watsonryan
-- 👀 navigation | state estimation | robotics
+- 👀 PNT | State Estimation | Orbit Determination | GNSS | Robotics
 - 📫 rwatso12@gmail.com
 
 <!---
