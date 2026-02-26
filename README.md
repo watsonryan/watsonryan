@@ -1,6 +1,6 @@
   # Ryan Watson
 
-  Navigation, estimation, and astrodynamics engineer focused on PNT, GNSS, orbit determination, and robust optimization.
+  PNT engineer; biased toward robust methods.
 
   ## What I Work On
   - Robust GNSS estimation, factor-graph methods, PPP, Astrodynamics
