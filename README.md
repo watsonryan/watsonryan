@@ -1,6 +1,6 @@
   # Ryan Watson
 
-  PNT engineer.
+  Navigation engineer.
 
   ## What I Work On
   - Robust GNSS estimation, factor-graph methods, PPP, Astrodynamics
